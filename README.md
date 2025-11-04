@@ -1,6 +1,6 @@
 # Hi there, I'm Youri Rigaud 👋
 
-👨‍💻 I'm a applied mathematics and computer science graduated student at Polytechnique Montreal / Grenoble INP - Ensimag.
+👨‍💻 I'm an applied mathematics and computer science graduated student at Polytechnique Montreal / Grenoble INP - Ensimag.
 
 ## What I'm interested in
 
